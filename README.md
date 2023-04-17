@@ -1,5 +1,5 @@
 # Pixelated Artwork Generator
-Pixelated Artwork Generator is a tool to create charming pixel art effortlessly. This straightforward tool allows you to draw on a grid canvas with different colors and erase what you don't want.
+The Pixelated Artwork Generator is a user-friendly tool that simplifies the creation of pixel art. It features a dynamic grid canvas with a rich color palette and easy erasure options, enabling users to create intricate and visually appealing designs with precision and control.
 
 ## Getting started
 ### Prerequisites
